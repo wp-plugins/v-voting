@@ -1,13 +1,13 @@
 <?php
 /*
 Plugin Name: v voting
-Plugin URI: http://www.shatter.fr/bp-portfolio/
+Plugin URI: 
 Description: This plugin allows each user to create his portfolio on your website
 Version: 1.0
 Requires at least: WP 3.3.1, BuddyPress 1.5
 License: GNU General Public License 2.0 (GPL) http://www.gnu.org/licenses/gpl.html
-Author: Nicolas Crocfer (shatter)
-Author URI: http://www.shatter.fr
+Author: niana
+Author URI: 
 */
 
 
